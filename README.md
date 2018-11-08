@@ -5,6 +5,6 @@ This is for 352 dorm in UCAS
 |#|Title|Tags|
 |---|---|---|
 |001|[Two Sum](https://leetcode.com/problems/two-sum/)|Arr,Hash Table|
-
+|007|[Reverse Interger](https://leetcode.com/problems/reverse-integer/)|Math|
 
 
