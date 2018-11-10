@@ -12,6 +12,7 @@ This is for 352 dorm in UCAS
 |064|[Minumum Paht Sum](https://leetcode.com/problems/minimum-path-sum/)|Dynamic programming|
 |070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|Dynamic programming|
 |091|[Decode Ways](https://leetcode.com/problems/decode-ways/)|Dynamic programming|
+|134|[Gas Station](https://leetcode.com/problems/gas-station/)|Greedy|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|Dynamic programming|
 |213|[House Robber ii](https://leetcode.com/problems/house-robber-ii/)|Dynamic programming|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|Divide and Conquer|
