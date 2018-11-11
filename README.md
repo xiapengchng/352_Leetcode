@@ -18,3 +18,4 @@ This is for 352 dorm in UCAS
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|Divide and Conquer|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|Dynamic programming|
 |392|[Is Subsequnce](https://leetcode.com/problems/is-subsequence/)|Greedy|
+|455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/)|Greedy|
