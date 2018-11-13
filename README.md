@@ -21,3 +21,4 @@ This is for 352 dorm in UCAS
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|Greedy|
 |435|[Non-overlapping](https://leetcode.com/problems/non-overlapping-intervals/)|Greedy|
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/)|Greedy|
+|881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|Greedy|
