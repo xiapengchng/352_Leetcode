@@ -17,4 +17,5 @@ Explanation: The square root of 8 is 2.82842..., and since
 
 idea:
 1.binary search
-2.be care int not overflow!
+2.netwon method
+3.recursive
