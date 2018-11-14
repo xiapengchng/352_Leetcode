@@ -13,7 +13,6 @@ This is for 352 dorm in UCAS
 |070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|Dynamic programming|
 |074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)|Math|
 |091|[Decode Ways](https://leetcode.com/problems/decode-ways/)|Dynamic programming|
-|134|[Gas Station](https://leetcode.com/problems/gas-station/)|Greedy|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|Dynamic programming|
 |213|[House Robber ii](https://leetcode.com/problems/house-robber-ii/)|Dynamic programming|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|Divide and Conquer|
@@ -23,3 +22,4 @@ This is for 352 dorm in UCAS
 |435|[Non-overlapping](https://leetcode.com/problems/non-overlapping-intervals/)|Greedy|
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/)|Greedy|
 |881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|Greedy|
+>>>>>>> 31b89d5dd6208195f2c29465c97871aa50c525ed
