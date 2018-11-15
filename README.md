@@ -7,6 +7,7 @@ This is for 352 dorm in UCAS
 |001|[Two Sum](https://leetcode.com/problems/two-sum/)|Arr,Hash Table|
 |007|[Reverse Interger](https://leetcode.com/problems/reverse-integer/)|Math|
 |023|[Merge Two Soted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|Lists|
+|032|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|Dynamic programming|
 |055|[Jump Game](https://leetcode.com/problems/jump-game/description/)|Dynamic programming|
 |062|[Unique Paths](https://leetcode.com/problems/unique-paths/)|Dynamic programming|
 |064|[Minumum Paht Sum](https://leetcode.com/problems/minimum-path-sum/)|Dynamic programming|
