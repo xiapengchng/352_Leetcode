@@ -10,6 +10,7 @@ This is for 352 dorm in UCAS
 |032|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|Dynamic programming|
 |055|[Jump Game](https://leetcode.com/problems/jump-game/description/)|Dynamic programming|
 |062|[Unique Paths](https://leetcode.com/problems/unique-paths/)|Dynamic programming|
+|063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|Dynamic programming|
 |064|[Minumum Paht Sum](https://leetcode.com/problems/minimum-path-sum/)|Dynamic programming|
 |070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|Dynamic programming|
 |074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)|Math|
