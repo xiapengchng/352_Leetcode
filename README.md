@@ -11,8 +11,9 @@ This is for 352 dorm in UCAS
 |055|[Jump Game](https://leetcode.com/problems/jump-game/description/)|Dynamic programming|
 |062|[Unique Paths](https://leetcode.com/problems/unique-paths/)|Dynamic programming|
 |063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|Dynamic programming|
-|064|[Minumum Paht Sum](https://leetcode.com/problems/minimum-path-sum/)|Dynamic programming|
+|064|[Minumum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|Dynamic programming|
 |070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|Dynamic programming|
+|072|[Edit Distance](https://leetcode.com/problems/edit-distance/)|Dynamic programming|
 |074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)|Math|
 |077|[Combinations](https://leetcode.com/problems/combinations)|DFS|
 |091|[Decode Ways](https://leetcode.com/problems/decode-ways/)|Dynamic programming|
