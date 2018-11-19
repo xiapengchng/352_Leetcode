@@ -20,6 +20,7 @@ This is for 352 dorm in UCAS
 |075|[Sort Colors](https://leetcode.com/problems/sort-colors)|Array Two Pointers Sort|
 |077|[Combinations](https://leetcode.com/problems/combinations)|DFS|
 |091|[Decode Ways](https://leetcode.com/problems/decode-ways/)|Dynamic programming|
+|122|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|Dynamic Programming|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|Dynamic programming|
 |213|[House Robber ii](https://leetcode.com/problems/house-robber-ii/)|Dynamic programming|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|Divide and Conquer|
