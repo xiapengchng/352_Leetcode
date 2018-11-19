@@ -19,10 +19,12 @@ This is for 352 dorm in UCAS
 |074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)|Math|
 |075|[Sort Colors](https://leetcode.com/problems/sort-colors)|Array Two Pointers Sort|
 |077|[Combinations](https://leetcode.com/problems/combinations)|DFS|
+|079|[Search Word]((https://leetcode.com/problems/search-word)|Backtracking|
 |091|[Decode Ways](https://leetcode.com/problems/decode-ways/)|Dynamic programming|
 |122|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|Dynamic Programming|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|Dynamic programming|
-|213|[House Robber ii](https://leetcode.com/problems/house-robber-ii/)|Dynamic programming|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)||Depth-first Search|
+213|[House Robber ii](https://leetcode.com/problems/house-robber-ii/)|Dynamic programming|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|Divide and Conquer|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|Dynamic programming|
 |392|[Is Subsequnce](https://leetcode.com/problems/is-subsequence/)|Greedy|
