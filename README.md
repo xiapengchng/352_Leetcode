@@ -18,7 +18,8 @@ This is for 352 dorm in UCAS
 |079|[Search Word]((https://leetcode.com/problems/search-word)|Backtracking|
 |091|[Decode Ways](https://leetcode.com/problems/decode-ways/)|Dynamic programming|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|Dynamic programming|
-|213|[House Robber ii](https://leetcode.com/problems/house-robber-ii/)|Dynamic programming|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)||Depth-first Search|
+213|[House Robber ii](https://leetcode.com/problems/house-robber-ii/)|Dynamic programming|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|Divide and Conquer|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|Dynamic programming|
 |392|[Is Subsequnce](https://leetcode.com/problems/is-subsequence/)|Greedy|
