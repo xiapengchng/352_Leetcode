@@ -8,6 +8,7 @@ This is for 352 dorm in UCAS
 |007|[Reverse Interger](https://leetcode.com/problems/reverse-integer/)|Math|
 |023|[Merge Two Soted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|Lists|
 |032|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|Dynamic programing|
+|033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|###|
 |043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|String|
 |055|[Jump Game](https://leetcode.com/problems/jump-game/description/)|Dynamic programming|
 |057|[Insert Interval](https://leetcode.com/problems/insert-interval/)|###|
