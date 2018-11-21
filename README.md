@@ -21,6 +21,7 @@ This is for 352 dorm in UCAS
 |075|[Sort Colors](https://leetcode.com/problems/sort-colors)|Array Two Pointers Sort|
 |077|[Combinations](https://leetcode.com/problems/combinations)|DFS|
 |079|[Search Word](https://leetcode.com/problems/search-word)|Backtracking|
+|083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|Link list|
 |091|[Decode Ways](https://leetcode.com/problems/decode-ways/)|Dynamic programming|
 |122|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|Dynamic Programming|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|Dynamic programming|
