@@ -16,11 +16,8 @@ This is for 352 dorm in UCAS
 |072|[Edit Distance](https://leetcode.com/problems/edit-distance/)|Dynamic programming|
 |074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)|Math|
 |077|[Combinations](https://leetcode.com/problems/combinations)|DFS|
-<<<<<<< HEAD
 |087|[Scramble String](https://leetcode.com/problems/scramble-string/)|Dynamic programming|
-=======
-|079|[Search Word]((https://leetcode.com/problems/search-word)|Backtracking|
->>>>>>> parent of 9fc26bc... Update README.md
+|079|[Search Word](https://leetcode.com/problems/search-word)|Backtracking|
 |091|[Decode Ways](https://leetcode.com/problems/decode-ways/)|Dynamic programming|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|Dynamic programming|
 |213|[House Robber ii](https://leetcode.com/problems/house-robber-ii/)|Dynamic programming|
