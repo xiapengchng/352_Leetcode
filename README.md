@@ -23,10 +23,8 @@ This is for 352 dorm in UCAS
 |079|[Search Word](https://leetcode.com/problems/search-word)|Backtracking|
 |083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|Link list|
 |091|[Decode Ways](https://leetcode.com/problems/decode-ways/)|Dynamic programming|
-|122|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|Dynamic Programming|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|Dynamic programming|
-|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)||Depth-first Search|
-213|[House Robber ii](https://leetcode.com/problems/house-robber-ii/)|Dynamic programming|
+|213|[House Robber ii](https://leetcode.com/problems/house-robber-ii/)|Dynamic programming|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|Divide and Conquer|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|Dynamic programming|
 |392|[Is Subsequnce](https://leetcode.com/problems/is-subsequence/)|Greedy|
@@ -34,4 +32,3 @@ This is for 352 dorm in UCAS
 |435|[Non-overlapping](https://leetcode.com/problems/non-overlapping-intervals/)|Greedy|
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/)|Greedy|
 |881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|Greedy|
->>>>>>> 31b89d5dd6208195f2c29465c97871aa50c525ed
