@@ -26,8 +26,10 @@ This is for 352 dorm in UCAS
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|Dynamic programming|
 |213|[House Robber ii](https://leetcode.com/problems/house-robber-ii/)|Dynamic programming|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|Divide and Conquer|
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Search|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|Dynamic programming|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|Array|
+|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|Array|
 |392|[Is Subsequnce](https://leetcode.com/problems/is-subsequence/)|Greedy|
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|Greedy|
 |435|[Non-overlapping](https://leetcode.com/problems/non-overlapping-intervals/)|Greedy|
