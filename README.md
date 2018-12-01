@@ -21,8 +21,8 @@ This is for 352 dorm in UCAS
 |075|[Sort Colors](https://leetcode.com/problems/sort-colors)|Array Two Pointers Sort|
 |077|[Combinations](https://leetcode.com/problems/combinations)|DFS|
 |079|[Search Word](https://leetcode.com/problems/search-word)|Backtracking|
+|083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|Link list|
 |091|[Decode Ways](https://leetcode.com/problems/decode-ways/)|Dynamic programming|
-|122|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|Dynamic Programming|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|Dynamic programming|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)||Depth-first Search|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|Search|
@@ -37,4 +37,3 @@ This is for 352 dorm in UCAS
 |435|[Non-overlapping](https://leetcode.com/problems/non-overlapping-intervals/)|Greedy|
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/)|Greedy|
 |881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|Greedy|
->>>>>>> 31b89d5dd6208195f2c29465c97871aa50c525ed
