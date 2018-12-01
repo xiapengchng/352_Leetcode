@@ -24,6 +24,8 @@ This is for 352 dorm in UCAS
 |083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|Link list|
 |091|[Decode Ways](https://leetcode.com/problems/decode-ways/)|Dynamic programming|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|Dynamic programming|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)||Depth-first Search|
+|202|[Happy Number](https://leetcode.com/problems/happy-number/)|Search|
 |213|[House Robber ii](https://leetcode.com/problems/house-robber-ii/)|Dynamic programming|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|Divide and Conquer|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Search|
