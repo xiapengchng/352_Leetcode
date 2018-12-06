@@ -23,6 +23,12 @@ This is for 352 dorm in UCAS
 |079|[Search Word](https://leetcode.com/problems/search-word)|Backtracking|
 |083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|Link list|
 |091|[Decode Ways](https://leetcode.com/problems/decode-ways/)|Dynamic programming|
+<<<<<<< HEAD
+|122|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|Dynamic Programming|
+|144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|Binary Tree|
+|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|Array|
+=======
+>>>>>>> f2ee2da3b68ea5c7f2be8042f0b9535271291368
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|Dynamic programming|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)||Depth-first Search|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|Search|
