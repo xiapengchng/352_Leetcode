@@ -1,0 +1,91 @@
+
+class Solution {
+public:
+    
+    string s1,s2,s3;
+    int n1,n2,n3;
+    
+    bool isInterleave(string s11, string s21, string s31) {
+        
+        int i,j,k;
+        n1=s11.size();
+        n2=s21.size();
+        n3=s31.size();
+        s1=s11;
+        s2=s21;
+        s3=s31;
+        if(n1+n2!=n3)
+            return false;
+        vector<vector<bool>> F(n1+1,vector<bool>(n2+1,false));
+        vector<vector<bool>> flags(n1+1,vector<bool>(n2+1,false));
+        
+        // for(i=0;i<=n1;i++)
+        //     for(j=0;j<=n2;j++)
+        //         for(k=0;k<=n3;k++)
+        //             flags[i][j]=false;
+        
+        F[n1][n2]=true;
+        flags[n1][n2]=true;
+        
+        for(j=n2-1,k=n3-1;j>=0&&k>=0;j--,k--){
+            if(s21[j]==s31[k]){
+                F[n1][j]=F[n1][j+1];
+            }
+            else{
+                F[n1][j]=false;
+            }
+            flags[n1][j]=true;
+        }
+        
+        for(i=n1-1,k=n3-1;i>=0&&k>=0;i--,k--){
+            if(s11[i]==s31[k]){
+                F[i][n2]=F[i+1][n2];
+            }
+            else
+            {
+                F[i][n2]=false;
+            }
+            flags[i][n2]=true;
+        }
+
+
+        f(0,0,0,F,flags);
+        return F[0][0];
+    }
+    bool f(int i0,int j0,int k0,vector<vector<bool>>& F,vector<vector<bool>>& flags){
+        int i,j,k;
+        i=i0,j=j0,k=k0;
+        
+        if(flags[i0][j0]==true)
+            return F[i0][j0];
+        
+        while(i<n1&&j<n2&&k<n3){
+            
+            if(s1[i]!=s3[k]&&s2[j]!=s3[k]){
+                F[i0][j0]=false;
+                flags[i0][j0]=true;
+                return false;
+            }
+            else if(s1[i]==s3[k]&&s2[j]!=s3[k]){
+                //F[i][]
+                i++;
+                k++;
+                
+            }
+            else if(s1[i]!=s3[k]&&s2[j]==s3[k]){
+                j++;
+                k++;
+            }
+            else{
+                F[i0][j0]=f(i+1,j,k+1,F,flags)||f(i,j+1,k+1,F,flags);
+                flags[i0][j0]=true;
+                return F[i0][j0];
+            }
+        }
+        
+        F[i0][j0]=F[i][j];
+        flags[i0][j0]=true;
+        return F[i0][j0];
+
+    }
+};
