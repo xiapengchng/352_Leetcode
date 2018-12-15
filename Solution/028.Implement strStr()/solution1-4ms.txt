@@ -1,0 +1,8 @@
+class Solution {
+public:
+    int strStr(string hy, string dl) {
+
+        return hy.find(dl);
+        
+    }
+};
